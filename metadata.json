@@ -1,0 +1,6 @@
+{
+  "name": "My Body & My Hobby",
+  "description": "Aplikasi web pembelajaran bahasa Inggris interaktif untuk siswa kelas 3 SD yang menghubungkan pengenalan anggota tubuh dengan aktivitas hobi sehari-hari.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
